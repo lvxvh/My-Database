@@ -1,0 +1,16 @@
+﻿  database2.cpp
+d:\c++hw\database2\database2\database2.cpp(178): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\c++hw\database2\database2\database2.cpp(180): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\c++hw\database2\database2\database2.cpp(224): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\c++hw\database2\database2\database2.cpp(413): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\c++hw\database2\database2\database2.cpp(520): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\c++hw\database2\database2\database2.cpp(541): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\c++hw\database2\database2\database2.cpp(548): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\c++hw\database2\database2\database2.cpp(644): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\c++hw\database2\database2\database2.cpp(763): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\c++hw\database2\database2\database2.cpp(1054): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\c++hw\database2\database2\database2.cpp(1190): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  stdafx.cpp
+  database2.vcxproj -> D:\c++hw\database2\Debug\database2.exe
